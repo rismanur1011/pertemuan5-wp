@@ -9,7 +9,7 @@
 
     <a href="index.php">Home</a>
      <h1>belah ketupat</h1>
-     <form action="belah_ketupatcopy.php" method="post">
+     <form action="belah_ketupatcopy.php" method="post"> 
         Masukkan diagonal 1: <input type="number" name="d1"> <br>
         Masukkan diagonal 2: <input type="number" name="d2"> <br>
         Masukkan sisi : <input type="number" name="sisi"> <br>

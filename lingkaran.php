@@ -10,8 +10,8 @@
 <a href="index.php">Home</a>
     <h1>lingkaran</h1>
     <form action="lingkarancopy.php" method="post">
-        Jari-jari: <input type="number" name="jari"><br>
-        <input type="submit" value="Hitung">
+    Jari-jari:<input type="number" name="jari"><br>
+    <input type="submit" value="Hitung">  
     </form>
 </body>
 </html>

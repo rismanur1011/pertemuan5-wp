@@ -10,8 +10,8 @@
 <a href="index.php">Home</a>
     <h1>persegi panjang</h1>
     <form action="persegi_panjangcopy.php" method="post">
-        panjang: <input type="number" name="panjang"><br>
-        lebar:  <input type="number" name="lebar"><br>
+        panjang:<input type="number" name="panjang"><br>
+        lebar:<input type="number" name="lebar"><br>
         <input type="submit" value="Hitung">
     </form>
 </body>

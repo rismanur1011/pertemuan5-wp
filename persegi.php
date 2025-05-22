@@ -10,10 +10,9 @@
 <a href="index.php">Home</a>
     <h1>persegi</h1>
     <form action="persegicopy.php" method="post">
-        Masukkan  sisi
-        <input type="number" name="sisi" id="">
+        Masukkan Sisi:<input type="number" name="sisi" id=""><br>
         <input type="submit" value="Hitung Luas Dan Keliling">
+
     </form>
 </body>
-
 </html>

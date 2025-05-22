@@ -10,10 +10,10 @@
 <a href="index.php">Home</a>
    <h1>jajargenjang</h1> 
    <form action="jajargenjangcopy.php" method="post">
-   Alas: <input type="number" name="alas"><br>
-   Tinggi: <input type="number" name="tinggi"><br>
-   Sisi Miring: <input type="number" name="sisi miring"><br>
-   <input type="submit" value="Hitung">
+    Alas:<input type="number" name="alas"><br>
+    Tinggi:<input type="number" name="tinggi"><br>
+    Sisi Miring:<input type="number" name="sisi miring"><br>
+    <input type="submit" value="Hitung">
    </form>
 </body>
 </html>

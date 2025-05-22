@@ -10,11 +10,11 @@
 <a href="index.php">Home</a>
     <h1>layang2</h1>
     <form action="layang2copy.php" method="post">
-    Diagonal 1: <input type="number" name="d1"><br>
-    Diagonal 2: <input type="number" name="d2"><br>
-    Sisi 1: <input type="number" name="sisi_1"><br>
-    Sisi 2: <input type="number" name="sisi_2"><br>
-    <input type="submit" value="Hitung">
+       Diagonal 1:<input type="number" name="d1"><br>
+       Diagonal 2:<input type="number" name="d2"><br>
+       Sisi 1:<input type="number" name="sisi_1"><br>
+       Sisi 2<input type="number" name="sisi_2"><br>
+       <input type="submit" value="Hitung">
     </form>
 </body>
 </html>
